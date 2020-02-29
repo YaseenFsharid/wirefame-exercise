@@ -1,0 +1,64 @@
+
+
+body
+{
+    margin: 0;
+    padding: 0;
+    background-color: #F1F1F1;
+    font-family: Arial, 'Verdana', or Helvetica
+}
+header{
+    margin: 4%;
+    background-color: #404040;
+}
+
+.main-nav{
+    display: inline-flex;
+    padding: 25px;
+    height: 70;
+    width:200 ;
+    margin-left: 208px;
+
+}
+.li{
+    margin-top: 6px;
+    padding: 25px;
+}
+.liimg{
+    margin-left: 178px;
+}
+.li2{
+    display: inline-block;   
+    padding: 13px;
+}
+#move{
+    margin-left: 165px;
+}
+span img{
+     margin-left: 178px;
+     margin-top: 18px;
+}
+
+cite p{
+    overflow: hidden;
+    margin-right: 197px;
+    width: 35%;
+    height: 356px;
+    float: right;
+    margin-top: -403px;
+    font-size: large;
+}
+#spin{
+    background-color: #404040;
+    color: whitesmoke;
+    float: right;
+    margin-right: 527px;
+    margin-top: -32px;
+    padding: 7px 25px 7px 25px;
+    border: 1px solid; 
+}
+.main-nav2{
+    margin: 13px 64px 39px 64px;
+    height: 94px;
+    background-color: #404040;   
+}
